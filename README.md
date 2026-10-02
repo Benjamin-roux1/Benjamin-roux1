@@ -1,4 +1,3 @@
-## Hi!
 <b>I am a PhD candidate in macroecology within the 
 <a target="_blank" rel="noopener" href="https://www.nmbu.no/en/research/groups/plant-ecology">
 Norwegian University of Life Sciences
